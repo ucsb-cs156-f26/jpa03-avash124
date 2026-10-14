@@ -49,4 +49,5 @@ build/
 .vscode/
 
 ### Local Configuration ###
-.env 
+.env
+
